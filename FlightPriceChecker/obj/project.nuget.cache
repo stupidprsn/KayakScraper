@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLxl/ID744hST2imECzteEaYitMWI4JfT/0UVLrZKZYufbPG1gwJLple3xG4TfuZ7t789U6HEAT84jUb24SEVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hanli\\OneDrive - Hillsborough County Public Schools\\Documents\\IB\\Math IA\\IA\\FlightPriceScript\\FlightPriceChecker\\FlightPriceChecker\\FlightPriceChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanli\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hanli\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

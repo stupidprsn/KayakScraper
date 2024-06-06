@@ -1,0 +1,9 @@
+{
+  "FilterSettings": {
+    "Airline": "Delta",
+    "StopCount": "nonstop",
+    "CabinClass": "Basic Economy",
+    "RawDataFolder": "D:\\School\\IB\\Math IA\\RawData",
+    "OutputLocation": "D:\\School\\IB\\Math IA\\FilteredData"
+  }
+}
